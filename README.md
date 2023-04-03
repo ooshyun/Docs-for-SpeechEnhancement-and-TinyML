@@ -1,4 +1,4 @@
-# Documents for information Speech Enhancement with Machine leanring and tinyML
+# Documents for Speech Enhancement with Machine leanring and TinyML
 
 ## File Description
 
